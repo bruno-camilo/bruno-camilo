@@ -6,11 +6,8 @@
 Desenvolvedor Oracle SOA Suite com 7 anos de sólida experiência em integrações e desenvolvimento. Especializado em tecnologias como SOAP, REST, PL/SQL e Sensedia, com um histórico comprovado de entrega bem-sucedida em projetos desafiadores.
 
 Atualmente, estou expandindo meu conhecimento para a Oracle Integration Cloud (OIC) e Java com Spring boot, buscando aprimorar ainda mais minhas habilidades.
-###
 
 ## 🛠️ Tecnologias e Ferramentas
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -25,22 +22,14 @@ Atualmente, estou expandindo meu conhecimento para a Oracle Integration Cloud (O
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
-###
-
-
-
-###
 
 ## 📫 Contato
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bruno-camilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
