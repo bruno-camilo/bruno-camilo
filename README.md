@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Bruno!
 
 🎯 **Desenvolvedor especializado em Oracle SOA Suite & Oracle Integration Cloud**
 
@@ -32,7 +32,7 @@
 
 📧 **E-mail:** seuemail@email.com  
 🔗 **LinkedIn:** [seu-linkedin](#)  
-🐙 **GitHub:** [seu-github](#)  
+🐙 **GitHub:** https://github.com/bruno-camilo/(#)  
 
 ---
 
