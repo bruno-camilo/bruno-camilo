@@ -30,9 +30,9 @@
 
 ## 📫 Contato
   
-🔗 **LinkedIn:** www.linkedin.com/in/brunocamilodasilva
-🐙 **GitHub:** https://github.com/bruno-camilo/
-
+<div>
+<a href="https://www.linkedin.com/in/brunocamilodasilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 ---
 
 _📌 Sempre aberto a novas oportunidades e colaborações!_ 🚀
