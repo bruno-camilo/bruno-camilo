@@ -29,10 +29,9 @@
 ---
 
 ## 📫 Contato
-
-📧 **E-mail:** seuemail@email.com  
-🔗 **LinkedIn:** [seu-linkedin](#)  
-🐙 **GitHub:** https://github.com/bruno-camilo/(#)  
+  
+🔗 **LinkedIn:** www.linkedin.com/in/brunocamilodasilva
+🐙 **GitHub:** https://github.com/bruno-camilo/
 
 ---
 
