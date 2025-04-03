@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Seu Nome]!
 
-<!--
-**bruno-camilo/bruno-camilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor especializado em Oracle SOA Suite & Oracle Integration Cloud**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+💡 Apaixonado por arquitetura orientada a serviços (SOA) e integração de sistemas, tenho experiência em desenvolvimento e implementação de soluções na Oracle Integration Cloud (OIC). Além disso, estou sempre explorando novas tecnologias e aprimorando minhas habilidades em **Java** e **banco de dados**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- ⚡ **Oracle Integration Cloud (OIC)**
+- 🔗 **Oracle SOA Suite**
+- 🖥️ **Java (POO, Spring Boot)**
+- 🗄️ **Banco de Dados (Oracle, SQL, PL/SQL)**
+- 🌐 **Web Services (SOAP, REST)**
+- 🔧 **Git & GitHub**
+- 🏗️ **Docker & Kubernetes (iniciante)**
+
+---
+
+## 📌 Projetos em Destaque
+🔹 [Projeto 1 - Integração com OIC](#) *(Breve descrição do projeto)*
+🔹 [Projeto 2 - Microsserviço em Java](#) *(Breve descrição do projeto)*
+🔹 [Projeto 3 - Sistema de Pet Shop](#) *(Breve descrição do projeto)*
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** seuemail@email.com  
+🔗 **LinkedIn:** [seu-linkedin](#)  
+🐙 **GitHub:** [seu-github](#)  
+
+---
+
+_📌 Sempre aberto a novas oportunidades e colaborações!_ 🚀
